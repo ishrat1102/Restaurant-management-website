@@ -7,6 +7,7 @@ How customers and admin can use website interface to create account, see menu, p
   
   
 Functional Requirements:
+
 •	Signup, Sign In, Logout function,
 
 •	Seeing Menu function,
@@ -20,6 +21,7 @@ Functional Requirements:
 •	Seeing Customer information function, All order information function, Reservation information function.
 
  Non- Functional Requirements:
+
 •	Signup, sign in, logout is successful or not,
 
 •	Customer can place order after seeing menu and see a confirmation massage effectively or not,
